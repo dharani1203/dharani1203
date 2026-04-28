@@ -1,18 +1,44 @@
-## Hi Jarra Dharani 👋
+## Hi, I'm Dharani 👋  
 
-<!--
-**dharani1203/dharani1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech Computer Science student (2026)  
+🌱 Currently learning **Machine Learning & Full-Stack Python Development**  
+💡 Passionate about building **real-world AI solutions** and scalable applications  
 
-- 🌱 I’m currently learning.... Machine Learning & Full Stack Python Developer
-- 🎓 Final-year B.Tech Computer Science student 2026 passed out
-- 💡 Interested in building... real-world AI solutions and scalable applications
-- 🤝 Open to full time Opportunities and collaboration
-- 🚀 Projects... Plant Species Identification & Leaf Disease Detection Built using TensorFlow, Keras, and OpenCV, deployed as a Flutter mobile app
-- 💬 Ask me about ... • Python • OOP • Machine Learning • MySQL • HTML5 • CSS3 • JavaScript
-- 👨‍💻 All of my projects are available at - https://sudeshresume.netlify.com
-- 📫 How to reach me: ...
-📧 Email: jirradharani@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/jarra-dharani-1203y05
-💻 GitHub: https://github.com/dharani1203
-- ⚡ Fun fact: ... I enjoy turning ideas into real-world applications using code and continuous learning 🚀
--->
+---
+
+### 🚀 About Me  
+- 👨‍💻 I enjoy turning ideas into real-world applications through code  
+- 🧠 Strong foundation in **Python, OOP, and Web Development**  
+- 🤝 Open to **full-time opportunities** and collaboration  
+- ⚡ Always learning and exploring new technologies  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** Python, JavaScript  
+- **Web:** HTML5, CSS3  
+- **Database:** MySQL  
+- **AI/ML:** TensorFlow, Keras, OpenCV  
+
+---
+
+### 📌 Featured Project  
+**🌿 Plant Species Identification & Leaf Disease Detection**  
+- Built using TensorFlow, Keras & OpenCV  
+- Deployed as a Flutter mobile application  
+- Focused on accurate classification and real-time usability  
+
+---
+
+📧 Email: [jirradharani@gmail.com](mailto:jirradharani@gmail.com)  
+
+💼 LinkedIn: [View Profile](https://www.linkedin.com/in/jarra-dharani-1203y05)  
+
+💻 GitHub: [dharani1203](https://github.com/dharani1203)  
+
+🌐 Portfolio: [My Portfolio](https://jarradharani.netlify.app)   
+
+---
+
+### 💬 Ask Me About  
+Python • OOP • Machine Learning • MySQL • HTML • CSS • JavaScript  
