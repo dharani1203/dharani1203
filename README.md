@@ -15,8 +15,8 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript  
-- **Web:** HTML5, CSS3  
+- **Languages:** Python, Basics of Java
+- **Web:** HTML5, CSS3, JavaScript, Reactjs 
 - **Database:** MySQL  
 - **AI/ML:** TensorFlow, Keras, OpenCV  
 
@@ -41,4 +41,4 @@
 ---
 
 ### 💬 Ask Me About  
-Python • OOP • Machine Learning • MySQL • HTML • CSS • JavaScript  
+Python • OOP • DSA • Machine Learning • MySQL • HTML • CSS • JavaScript • Reactjs • Basics of Java
